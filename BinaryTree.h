@@ -7,6 +7,7 @@ template <class T>
 class BinaryTree {
 
     protected:
+    BinaryNode<T>= raiz; 
 
 
 
